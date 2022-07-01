@@ -1,0 +1,12 @@
+{
+    "name": "irety/verify",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Irety\\Verify\\": "src/"
+        }
+    },
+    "require": {
+        "predis/predis": "^2.0"
+    }
+}
